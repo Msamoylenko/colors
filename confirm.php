@@ -11,6 +11,7 @@
 <?php
     if (isset($_POST['color'])){
         echo "<h1>You chose " . $_POST['color'] . "</h1>";
+        echo "Great job";
     }
 ?>
 
